@@ -1,16 +1,5 @@
 # flutter_api_call
 
-A new Flutter project.
+Az alkalmazás egy egyszerű API hívást mutat be a Flutter keretrendszer segítségével. A kód segítségével egy egyszerű GET kérést hajtanak végre az https://jsonplaceholder.typicode.com/posts API-ra. A válaszként kapott JSON adatokat egy ListView-ben jelenítik meg az alkalmazás felhasználói felületén.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A kód illetve az alkalmazás segítségével lehet megérteni, hogyan lehet API hívásokat készíteni Flutterben, és hogyan lehet feldolgozni a visszakapott adatokat. 
